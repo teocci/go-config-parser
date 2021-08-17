@@ -1,9 +1,6 @@
 ## go-config-parser [![Go Reference][1]][2]
 
-## Introduction
 `go-config-parser` package provides a simple parser for reading/writing `.ini` configuration files.
-
-
 
 ## Features
 This package supports reading/writing the `.ini` files as well as:
@@ -14,6 +11,7 @@ This package supports reading/writing the `.ini` files as well as:
 - `#` or `;` as comment delimiter
 - `=` or `:` as value delimiter
 
+## Example
 ```go
 package example
 
