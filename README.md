@@ -1,4 +1,4 @@
-## go-config-parser
+## go-config-parser [![Go Reference][1]][2]
 
 ## Introduction
 `go-config-parser` package provides a simple parser for reading/writing `.ini` configuration files.
@@ -102,3 +102,6 @@ func TestExample(t *testing.T) {
 	}
 }
 ```
+
+[1]: https://pkg.go.dev/badge/github.com/teocci/go-config-parser.svg
+[2]: https://pkg.go.dev/github.com/teocci/go-config-parser
